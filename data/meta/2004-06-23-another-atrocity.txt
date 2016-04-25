@@ -1,0 +1,4 @@
+title : Another Atrocity
+keywords : Transcript,Talking Points
+date : 2004-06-23
+summary : Hi, I'm Bill O'Reilly.

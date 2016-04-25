@@ -1,0 +1,4 @@
+title : David Kay's Report
+keywords : Transcript,Talking Points
+date : 2004-01-27
+summary : Hi, I'm Bill O'Reilly.

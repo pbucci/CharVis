@@ -1,0 +1,4 @@
+title : Latest South Carolina Polling
+keywords : Transcript,Talking Points
+date : 2008-01-21
+summary : The latest polling out of South Carolina.

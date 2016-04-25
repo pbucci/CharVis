@@ -1,0 +1,1 @@
+{"paragraphs": [{"concepts": [], "speaker": "Bill O'Reilly", "text": []}]}

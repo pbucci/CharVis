@@ -1,0 +1,4 @@
+title : Fair and Balanced Swift Boat Coverage
+keywords : Transcript,Talking Points
+date : 2004-08-27
+summary : Fair and balanced swift boat coverage, that is the subject of this evening's Talking Points memo.

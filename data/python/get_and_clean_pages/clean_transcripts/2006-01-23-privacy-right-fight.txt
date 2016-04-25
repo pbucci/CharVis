@@ -1,0 +1,35 @@
+
+
+TONY SNOW, GUEST HOST: In the "Impact" segment tonight, does the government have the right to know if you're looking at pornography on the Internet? This week, the Justice Department filed a motion to force Internet giant Google to turn over millions of search records to help revive an online child protection law.
+Google says no way, and many legal experts say complying with the subpoena would result in an invasion of privacy.
+Joining us now from San Diego, Pam Dixon, executive director of the World Privacy Forum. And here in studio, Parry Aftab, an Internet lawyer.
+Ms. Dixon, let me begin with you. As I understand it, the government is not asking Google to turn over the names of people or what they looked at. It's simply asking them to turn over records of what people looked at so they can ascertain how widespread the visitation is on certain troublesome sites. Do I have that about right?
+PAM DIXON, EXECUTIVE DIRECTOR, WORLD PRIVACY FORUM: I believe you're correct. I think the problem is that when people go to search engine, such as Google or Yahoo, or any of the other big search engines, they type in a lot of information that is personally identifiable. And that's one of our great concerns.
+We help people on a regular basis, for example, to find people — to find information on the Web about themselves that's inappropriate, for example, financial statements with their name and Social Security number.
+So people who are not looking at pornography and who are not criminals, they're going to these search engines, typing in their name and their Social Security number, and that information can be revealed in a broad subpoena, such as this. And we're concerned about that.
+SNOW: All right. Is that your primary concern, because, again, it seems to me that, for the most part, you're dealing with a highly restricted set of cases and, furthermore, what they're asking Google is not turn over all our records, but let's sample a certain number of sites?
+Couldn't you simply take some of those sites out of the mix, those that involve the revelation of Social Security numbers, credit card numbers, and the like?
+DIXON: Well, that would certainly be the ideal situation. But my understanding of the subpoena and as it stands currently is that the U.S. government is asking for a broad swath of users, and they've requested that no personally-identifiable information is included. However, I think that a great deal of information could inadvertently be included.
+SNOW: OK. Let me turn to Ms. Aftab. What exactly is the purpose of this?
+PARRY AFTAB, INTERNET PRIVACY AND SECURITY LAWYER: Well, COPA was a law that was adopted in 1998 that was designed to have pornography sites require someone to prove that they were 18 or older in order to visit them.
+SNOW: COPA is the Child Online Protection Act.
+AFTAB: Child Online Protection Act. It was put on hold immediately upon being passed and wasn't ever used because, for six years, it was on hold. The Supreme Court looked at it and said, "We're not convinced."
+SNOW: Now, here is the key sticking point, it seems to me, not this -- what we're talking about with Google, but the fact is that it wants to rule out sites that might be harmful if a kid stumbled upon them, right?
+AFTAB: Yes, it's content that kids should not be seeing.
+SNOW: OK. The question is, how do you define that?
+AFTAB: Well, that's a separate issue. Right now, the Department of Justice is trying to look at the situation to find out what people are searching for to see if they can show that there's a need for the law at all. And that's what they're doing.
+The good thing, though, is there's going to be a judge that's going to look at this. The Department of Justice has some great people behind this stuff. I know them. Their hearts are in the right place.
+They issued a broad subpoena, and then lawyers do what lawyers do. Google's lawyers turned around and said, no, let a judge decide. And somebody is going to sit down there and say, "You can get this, you can't get this. And we'll protect Social Security numbers, anything that's personally identifiable." There is a way to get to whatever is legitimate under these circumstances.
+SNOW: Ms. Dixon, that sounds perfectly reasonable. What's wrong with that?
+DIXON: Well, I think we don't know what's going to happen here. As it stands, the current request from the Department of Justice, as the guest mentioned, is extremely broad. And what can happen in a request like that is that the company can then — or, excuse me, the government can then go back and ask the company to include personally identifying information at a later time, because it's really not that great of a stretch to do that.
+SNOW: Well, but would it not be the case — we've already talked about the fact that this is before a court, that a judge is going to scrub it a little bit. You've already had a number of other online providers, Yahoo and others, apparently have gone ahead and provided information. If you got safeguards, why are you going to worry about what the government does, if, in fact, the lawyers for Google and others have gone again and said, "No, no, no, we're going to protect our clients"?
+DIXON: Well, I think one of the issues here is: Do we want private companies revealing stored information to the government? And I think another issue is: Did people who were using Google, AOL, Microsoft and Yahoo, did they know before the typed in those search terms that this information was going to be stored in the first place?
+SNOW: Well, wait a minute. Anybody who gets on the computer, there are cookies. Anything you ask for on a computer, more or less, is going to get stored some place. If you have any Internet savvy at all, you know somebody's looking over your shoulder.
+DIXON: Well, you and I know that, but you'd be surprised at the number of people who don't. And I really worry that people who don't understand these issues may have a lot of trust in the search engines that really don't belong there.
+SNOW: OK. Final word, Ms. Aftab?
+AFTAB: Final word. If you're going to go to a Web site, read their privacy policy. Google has always said, "We're collecting a lot of information. We'll turn it over based upon appropriate governmental action."
+All of us should recognize, if you're doing something online, at some point it could be — someone looking for it. We should be careful about what we're putting out there.
+I'm not so worried. I trust that a judge is going to do the right thing.
+SNOW: Ms. Aftab, Ms. Dixon, thank you both.
+
+

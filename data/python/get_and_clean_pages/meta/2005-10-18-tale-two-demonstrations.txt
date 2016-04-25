@@ -1,0 +1,4 @@
+title : A Tale of  Two Demonstrations
+keywords : Transcript,Talking Points
+date : 2005-10-18
+summary : A tale of two demonstrations.

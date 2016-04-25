@@ -1,0 +1,4 @@
+title : Tightening Security
+keywords : Transcript,Interviews
+date : 2005-07-08
+summary : This is a partial transcript from The O'Reilly Factor, July 7, 2005, that has been edited for clarity.

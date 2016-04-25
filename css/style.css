@@ -1,0 +1,158 @@
+body {
+  /*background: #104050;*/
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.7;
+  margin: 0;
+  padding: 30px;
+}
+
+
+a {
+  color: #4183c4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+code {
+  background-color: #f8f8f8;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  font-family: "Bitstream Vera Sans Mono", Consolas, Courier, monospace;
+  font-size: 12px;
+  margin: 0 2px;
+  padding: 0 5px;
+}
+
+h1, h2, h3, h4 {
+  font-weight: bold;
+  margin: 0 0 15px;
+  padding: 0;
+}
+
+h1 {
+  border-bottom: 1px solid #ddd;
+  font-size: 2.5em;
+  font-weight: bold;
+  margin: 0 0 15px;
+  padding: 0;
+}
+
+h2 {
+  border-bottom: 1px solid #eee;
+  font-size: 2em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+p, ul {
+  margin: 15px 0;
+}
+
+ul {
+  padding-left: 30px;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.chartreuse {
+  background-color: chartreuse;
+}
+
+hr {
+  border:0;
+  border-top:1px solid #ddd;
+}
+.sentiments,.navigation, .story{
+  border-right:1px solid #ddd;
+  margin-right:30px;
+  padding-right:30px;
+  float:left;
+  width:25vw;
+  height:80vh;
+  overflow: scroll;
+}
+.positive,.negative,.neutral {
+  height:20px;
+  width:2px;
+  float:left;
+}
+.positive {
+  background-color: green;
+}
+.negative {
+  background-color: red;
+}
+.neutral {
+  background-color: grey;
+}
+.concept {
+  clear:both;
+  width:100%;
+}
+.concept_text {
+}
+.date_input {
+  width:200px;
+  
+  margin-bottom:10px;
+  /*background-color: red*/
+}
+.date_text {
+  font-size: 9px;
+}
+.text_list_item {}
+.header{
+  /*background-color:#022835;*/
+}
+
+h1.header_title {
+  /*border-bottom:0;*/
+  /*margin: 0;*/
+  /*margin-left: 5px;*/
+  /*padding: 0;*/
+  /*color: #6C929F;*/
+
+}
+.the_content {
+  /*background-color: #457585;*/
+  /*padding:30px;*/
+  /*height:100vh;*/
+}
+p.back_button {
+  color:#aaa;
+  font-style: italic;
+}
+p.back_button:hover {
+  color:#333;
+  cursor: pointer;
+  font-style: italic;
+}
+ul.text_list {
+  list-style-type:none;
+  /*padding-bottom:10px;*/
+}
+li.text_list_item {
+  margin:0 0 0 0;
+  padding-bottom:8px;
+}
+li.text_list_item:hover {
+  background-color: #dddddd;
+  cursor: pointer;
+}
+p.smalltext {
+  font-size: smaller;
+  font-style: italic;
+  color:#AAAAAA;
+}

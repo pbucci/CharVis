@@ -1,0 +1,4 @@
+title : 'Factor' exclusive: Jon Hammar's journey to freedom
+keywords : Transcript,Interviews
+date : 2013-01-14
+summary : This is a RUSH transcript from The O'Reilly Factor, January 15, 2013.
