@@ -3,6 +3,10 @@ Visualizing sentiment data from Bill O'Reilly's show on Fox News
 
 Note: development framework taken from https://github.com/oschneid/Macaron, including configs.
 
+```json
+{}
+```
+
 ## Installation Instructions
 
 Simply run:
